@@ -1,4 +1,3 @@
----
 
 # 🛒 Grocery Store Management System (SQL Project)
 
@@ -222,4 +221,3 @@ Grocery-SQL-Project/
 
 This project successfully demonstrates how SQL can be used to **analyze business performance, understand customer behavior, and support decision-making** in a retail environment.
 
----
